@@ -1,0 +1,1 @@
+Code for the post [Web App Authentication Workflow with Vue and Firebase](https://code.melo.plus/p/web-app-authentication-workflow-with) exploring a subset of the authentication scope for web apps where we create a minimal authentication experience using Firebase and Vue. 
